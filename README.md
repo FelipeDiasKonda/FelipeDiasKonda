@@ -14,5 +14,5 @@ E-mail para contato: felipe.konda@gmail.com
 -html;<br>
 -php(Laravel);<br>
 -Assembly(x86);
-### Hobbies
+
 
