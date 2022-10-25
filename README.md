@@ -13,6 +13,7 @@ E-mail para contato: felipe.konda@gmail.com
 -python;<br>
 -html;<br>
 -php(Laravel);<br>
--Assembly(x86);
+-Assembly(x86);,<br>
+-SQL;
 
 
