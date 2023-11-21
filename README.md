@@ -4,7 +4,11 @@
 <br>
 Estou no 4° Semestre de Engenharia de computação na PUC-CAMPINAS.
 <br>
-Gosto de Treinar musculação, basquete e também gosto de jogar competitivamente online.
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeDiasKonda&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDiasKonda&hide_progress=true&theme=dracula)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe_konda/)
 <br>
 E-mail para contato: felipe.konda@gmail.com
 <br>
