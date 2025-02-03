@@ -2,7 +2,7 @@
 ### ✋About me
 20 anos.
 <br>
-Estou no 6° Semestre de Engenharia de computação na PUC-CAMPINAS.
+Estou no 7° Semestre de Engenharia de computação na PUC-CAMPINAS.
 <br>
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeDiasKonda&show_icons=true&theme=dracula)
 
